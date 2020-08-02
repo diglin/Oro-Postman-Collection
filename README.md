@@ -37,7 +37,7 @@ As a result, you will see a new collection in the `Collection` tab, on the left 
 
 Click on the gear wheel in the top right corner, and then select `Manage environments`.
 
-![image-20190917173057076](/Users/sylvainraye/Sites/git/postman-collection/docs/manage-env.png)
+![image-20190917173057076](docs/manage-env.png)
 
 In the following pop-in select the environment called `Oro API environment`.
 
