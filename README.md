@@ -8,7 +8,7 @@ Feel free to fork it and enhance this collection by sending us a Pull Request
 
 You will find in this repository a collection to work with the API of Oro products:
 
-- Orocommerce: some methods currently but is regurlaly improved. See the list below.
+- Orocommerce 3.x (4.x is in prorgess on our side): some methods currently but is regurlaly improved. See the list below.
 - OroCRM: coming soon
 - OroPlatform: coming soon
 
